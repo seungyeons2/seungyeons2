@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요! 👋
 
 <!--
 **seungyeons2/seungyeons2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+🎵 <a href="https://seungyeons2.github.io" target="_blank"><img src="https://img.shields.io/badge/Homepage-3F5767?style=plastic&logo=http://www.w3.org/2000/svg&logoColor=3F5767"/></a>
