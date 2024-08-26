@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 🔗 <a href="https://seungyeons2.github.io" target="_blank"><img src="https://img.shields.io/badge/Homepage-3F5767?style=plastic&logo=http://www.w3.org/2000/svg&logoColor=3F5767"/></a>
 
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=seungyeons2&theme=react&line_height=30&hide=css"/> </a>
+
