@@ -33,8 +33,7 @@
 ```javascript
 const developer = {
   name: "SI SEUNGYEON",
-  education: "Sangmyung Univ.",
-  role: "Frontend Engineer",
+  role: "Frontend Developer",
   code: ["JavaScript", "Java", "C"],
   technologies: {
     frontEnd: ["React", "React Native", "VanillaJS"],
