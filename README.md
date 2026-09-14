@@ -20,20 +20,14 @@
 
 </br>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=b534jbz76gpvt7wfwws9k01vc&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=b534jbz76gpvt7wfwws9k01vc&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
+  </a>
+</p>
 
 </div>
 
-
-
-
-## 🚀 About Me
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seungyeons2&show_icons=true&theme=tokyonight" />
-</div>
 
 ## 💻 Tech Stack
 
