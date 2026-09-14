@@ -30,19 +30,6 @@
 
 ## 🚀 About Me
 
-```javascript
-const developer = {
-  name: "SI SEUNGYEON",
-  role: "Frontend Developer",
-  code: ["JavaScript", "Java", "C"],
-  technologies: {
-    frontEnd: ["React", "React Native", "VanillaJS"],
-    tools: ["Git", "Jira", "Notion", "Figma"]
-  },
-  //currentFocus: "Bringing ideas to life with flawless code 🌟",
-  //funFact: "If the Spotify widget above is active, it means I'm coding! 🖥️🖱️"
-};
-```
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=seungyeons2&show_icons=true&theme=tokyonight" />
